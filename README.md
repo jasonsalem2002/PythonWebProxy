@@ -18,3 +18,6 @@
 ### [SYS Library](https://docs.python.org/3/library/sys.html) 
 ### Used [Geek for Geeks](https://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/) to understand how the code should be written.
 ### [StackOverFlow](https://stackoverflow.com/questions/73522096/why-is-the-proxy-not-working-when-sending-requests) to search for known errors.
+
+# Output
+![This is an image](https://github.com/jasonsalem2002/PythonWebProxy/blob/main/Output/OutputClientServer.png)
