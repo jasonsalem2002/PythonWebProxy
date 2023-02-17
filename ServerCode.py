@@ -1,4 +1,4 @@
-import socket, datetime, threading, time, ssl
+import socket, datetime, threading, time
 
 cache = {}  # global variable for storing cached responses
 cache_expiry_time = 30  # cache expiry time in seconds
