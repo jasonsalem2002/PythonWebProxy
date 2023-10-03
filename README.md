@@ -21,3 +21,20 @@
 
 # Output
 ![This is an image](https://github.com/jasonsalem2002/PythonWebProxy/blob/main/Output/OutputClientServer.png)
+
+## Setup & Run
+
+1. Clone the repository: `git clone https://github.com/jasonsalem2002/PythonWebProxy.git`
+2. Navigate to the repository: `cd PythonWebProxy`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run the server: `python ProxyServer.py`
+5. Run the client: `python ProxyClient.py`
+
+## Code Structure
+
+- `ProxyServer.py`: This file contains the server-side code for the proxy.
+- `ProxyClient.py`: This file contains the client-side code for the proxy.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
